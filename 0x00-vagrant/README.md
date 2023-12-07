@@ -1,3 +1,3 @@
 #  first School project.
 
-## virtual machine
+## virtual machines
